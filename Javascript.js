@@ -1,8 +1,6 @@
 var number = document.getElementById('button');
 
-number.addEventListener('click', () => {
-  oddOrEven();
-});
+number.addEventListener('click', oddOrEven);
 
 function oddOrEven(){
  var input = document.getElementById('inputNumb').value;
