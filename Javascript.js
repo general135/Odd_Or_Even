@@ -11,5 +11,4 @@ function oddOrEven(){
   } else {
     document.write("Odd");
   }
-  var output = document.createElement('p');
 }
