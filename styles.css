@@ -1,13 +1,27 @@
-.button{
-
+.function{
+  text-align: center;
+}
+.box{
+  display: inline-box;
 }
 body{
     background-color: #383cca;
 }
 h1{
+    font-family: 'Odibee Sans', sans-serif;
+    font-size: 60px;
     color: #98eee2;
     text-align: center;
 }
 h2{
+  font-family: 'Teko', sans-serif;
+  font-size: 40px;
     text-align: center;
+  color: #1d9d87;
+}
+#p{
+  font-family: 'Teko', sans-serif;
+  font-size: 35px;
+  text-align: center;
+  color: #74bcd6;
 }
